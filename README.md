@@ -63,3 +63,18 @@ python recon.py --domain example.com --whois --dns --subdomains --scan --tech --
 ```bash
 python recon.py --banner 192.168.1.1 80
 ```
+```bash
+python recon.py --domain example.com --dns --verbose
+```
+
+## ⚙️ Requirements
+
+Install required packages:
+```bash
+pip install whois dnspython python-nmap requests
+```
+
+Install whatweb for tech detection (Kali/Ubuntu):
+```bash
+sudo apt install whatweb
+```
