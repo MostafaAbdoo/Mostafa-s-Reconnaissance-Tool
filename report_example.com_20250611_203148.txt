@@ -1,0 +1,569 @@
+=== WHOIS ===
+{
+  "domain_name": "EXAMPLE.COM",
+  "registrar": "RESERVED-Internet Assigned Numbers Authority",
+  "registrar_url": "http://res-dom.iana.org",
+  "reseller": null,
+  "whois_server": "whois.iana.org",
+  "referral_url": null,
+  "updated_date": "2024-08-14 07:01:34",
+  "creation_date": "1995-08-14 04:00:00",
+  "expiration_date": "2025-08-13 04:00:00",
+  "name_servers": [
+    "A.IANA-SERVERS.NET",
+    "B.IANA-SERVERS.NET"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "emails": null,
+  "dnssec": "signedDelegation",
+  "name": null,
+  "org": null,
+  "address": null,
+  "city": null,
+  "state": null,
+  "registrant_postal_code": null,
+  "country": null
+}
+
+=== DNS ===
+
+A Records
+--------------------
+23.215.0.136
+23.215.0.138
+96.7.128.175
+96.7.128.198
+23.192.228.80
+23.192.228.84
+
+NS Records
+--------------------
+a.iana-servers.net.
+b.iana-servers.net.
+
+TXT Records
+--------------------
+"_k2n1y4vw3qtb4skdx9e7dxt97qrmmq9"
+"v=spf1 -all"
+
+MX Records
+--------------------
+0 .
+
+
+=== SUBDOMAINS ===
+
+[+] Scanning example.com via APIs...
+*.example.com
+112.6.83.173.example.com
+2fattack.example.com
+6533d3e25f075dfaa371c5c4.example.com
+655745e55f075dfaa371d20a.example.com
+655cbbad5f075dfaa371d3a6.example.com
+8academy.example.com
+9cce47dec2afeff3e80dcab99df4a6c9.286fda40e101f61dc4eaae3921a6aea4.isc.flag.example.com
+account.example.com
+accounts.example.com
+actor.example.com
+adairco.example.com
+advertisement.example.com
+afterthought.example.com
+airflow.example.com
+alertmanager.example.com
+alice.example.com
+alist.example.com
+all-vendor-devices.example.com
+almostzero.example.com
+alto.example.com
+analytics.example.com
+animal.example.com
+apac.example.com
+api.art.example.com
+api.aws.example.com
+api.internal.cas-priority-expander.example.com
+api.internal.existing-iam.example.com
+api.internal.many-addons.example.com
+api.internal.minimal-gce-plb.example.com
+api.internal.minimal-ipv6.example.com
+api.internal.minimal-warmpool.example.com
+api.internal.minimal.example.com
+api.internal.privateflannel.example.com
+api.internal.unmanaged.example.com
+api.mx.example.com
+api.us.example.com
+api.weather.example.com
+app-server.internal.example.com
+appa.example.com
+applications.example.com
+appspace.example.com
+arithmetic.example.com
+artcloud.example.com
+as.example.com
+as207960 test intermediate - example.com
+assembla.example.com
+assets2.example.com
+attacker.site.example.com
+attraction.example.com
+au.example.com
+autoservice.example.com
+awsproxy.example.com
+azorius.example.com
+backup.example.com
+backupmail.example.com
+bad.example.com
+badguy.example.com
+bamboo.example.com
+bar-albatross.example.com
+bar.foo.example.com
+bar.sub.example.com
+base.example.com
+basin.example.com
+baz.bar.example.com
+baz.bar.sub.example.com
+baz.example.com
+bbb-api.example.com
+bee.example.com
+behavior.example.com
+bell.example.com
+bells.example.com
+bez-przecinka.example.com
+bharatbuy-demo.example.com
+bikes.example.com
+boards.example.com
+bomb.example.com
+branch.sub1.subsub.dev.example.com
+brand.example.com
+brass.example.com
+brooklyn.example.com
+bugs.example.com
+buildbot.example.com
+builds.example.com
+bundle-shard-2.assets.example.com
+c2.example.com
+calls-job-service.example.com
+cas.example.com
+cdn1.example.com
+cgit.example.com
+changes.example.com
+charityorg.example.com
+chat.example.com
+checkout.example.com
+child.example.com
+client-four.example.com
+client-one.example.com
+client-three.example.com
+client-two.example.com
+cluster1.example.com
+cluster2.example.com
+cmdm.example.com
+commonfate.example.com
+confluence-app-server.internal.example.com
+confluence.example.com
+consultingfirm.example.com
+coverage.example.com
+creditagency.example.com
+crosssite.example.com
+cryptomining.example.com
+cryptonightjs.example.com
+custom-api.example.com
+custom-auth.example.com
+cvat.example.com
+cybershield.example.com
+dashboard.example.com
+data.example.com
+dataviz.example.com
+db.example.com
+defaced.example.com
+defaced2.example.com
+destination.url.example.com
+dev-i90.example.com
+dev-media.example.com
+dev.example.com
+developer.example.com
+directory.example.com
+disabled.example.com
+disabled1.example.com
+disabled2.example.com
+discord.example.com
+discovery.example.com
+dl.example.com
+dmarc.example.com
+doc.bc.11111111.a.example.com
+does-not-exists.example.com
+doesnotexist.example.com
+doesntexist.bar.example.com
+domain.example.com
+download-guide.example.com
+download.example.com
+dropped.alertmanager.example.com
+duplicate.example.com
+eagle-server.example.com
+eastus.example.com
+ecs.example.com
+edpl.example.com
+emilybethzydavies15.example.com
+emilybethzydavies22.example.com
+etesync.example.com
+eu.example.com
+exam.example.com
+example.com
+exploit.example.com
+external.example.com
+f806022a190220200000020002100000.example.com
+f806022a930120200000020002100000.example.com
+f806022a930120200000020007100000.example.com
+f806022a930120200000020008100000.example.com
+f806022a930120200000040016100000.example.com
+fake.example.com
+false.example.com
+fashionbrand.example.com
+feature1.example.com
+files.example.com
+fingerprinting.example.com
+fle.example.com
+fontdesigner.example.com
+fontvendor.example.com
+foo.bar.example.com
+foo.blog.example.com
+foo.sub.example.com
+foreman.example.com
+fortimanager.example.com
+fs1.cdn.example.com
+funshare.example.com
+get-books-proxy.example.com
+gis.example.com
+gitblit.example.com
+gitea.example.com
+gitlab-registry.example.com
+glowlab.example.com
+good.example.com
+grid.example.com
+habittracker.example.com
+hadoop-oozie.example.com
+haunted1.banshee.example.com
+head.example.com
+header.example.com
+headlamp.example.com
+helm.ocp4.example.com
+hervekante319.example.com
+hg.example.com
+hipchat.example.com
+hls.example.com
+home.example.com
+host1.example.com
+hyperledger.example.com
+iag.example.com
+icinga.example.com
+icons.example.com
+iframe.example.com
+iiif.example.com
+iis.example.com
+industryreports.example.com
+influencer.example.com
+info35.example.com
+installments.example.com
+internal-api.example.com
+internal.example.com
+intra.example.com
+intranet-wiki.example.com
+intranet.example.com
+invalid-stuff-detected.example.com
+ip-93-184-216-34.ip.example.com
+ipn.example.com
+issuer.example.com
+jackson.group.example.com
+jira-app-server.internal.example.com
+jitsi.example.com
+john.doe.example.com
+jqm-site.example.com
+jupiter.example.com
+jupyterhub.example.com
+jyo.example.com
+kbs.example.com
+keys.server.example.com
+keystone.example.com
+khlab.example.com
+km.example.com
+kodi.example.com
+laptop.example.com
+laravel.example.com
+ldap-master.example.com
+ldap-server.example.com
+leiloes.example.com
+lists.example.com
+live.example.com
+livechat.example.com
+local.example.com
+login-yourbank.example.com
+m.example.com
+m.login.example.com
+m.testexample.com
+mail-relay.example.com
+mail-relay2.example.com
+mailsuite.example.com
+main.etcd.internal.minimal.example.com
+malicious.example.com
+mall.example.com
+malware-command-server.example.com
+malware.example.com
+maps.example.com
+master.example.com
+mautic.example.com
+mcp-server.example.com
+meeting.example.com
+midas-external.example.com
+minimal.example.com
+minio.example.com
+mirror-1.example.com
+mirrora.example.com
+ml-ai-conversations.example.com
+mob.example.com
+my-archive.example.com
+my-broker.example.com
+my-event-broker.example.com
+my-proxy.example.com
+my-remote-logger.example.com
+my-weather-api.example.com
+my.external.example.com
+my.proxy.example.com
+my.test.server.example.com
+myap.example.com
+myapp2.example.com
+mycorp.example.com
+mydomain.example.com
+myfriend.example.com
+myfunction.example.com
+myhost.example.com
+myoracle4.example.com
+myproj.example.com
+myrestservice.example.com
+myservice.example.com
+n1.example.com
+n2.example.com
+nc.example.com
+new-client.example.com
+newbackup.example.com
+newsite.example.com
+nexusguard.example.com
+nf.example.com
+nix.example.com
+nocert.example.com
+noexist.example.com
+noise-tracker-api.example.com
+nonexistant.example.com
+not-exist.example.com
+not-tracking.example.com
+not-working.example.com
+notfound.example.com
+ns11.example.com
+ntfy.example.com
+observability.example.com
+oidc.example.com
+onlineform.example.com
+only-gems.example.com
+op.example.com
+openssohost.example.com
+orange.example.com
+outlook.example.com
+panel.example.com
+patchman.example.com
+phabricator.example.com
+phish.example.com
+phpmyadmin.example.com
+pi17.example.com
+piwik.example.com
+platform.example.com
+plausible.example.com
+pochodzenie.example.com
+policy-explanation.example.com
+polipoliprom.example.com
+portfolio.example.com
+portsmouth.example.com
+ppro.example.com
+pr.example_com.294.example.com
+primero.example.com
+privacyidea.example.com
+processing.example.com
+production.example.com
+products.example.com
+proxy-server.example.com
+pterodactyl.example.com
+public.nova.example.com
+pulp.example.com
+pushbits.example.com
+pushendpoint.example.com
+pypi.example.com
+qaz.bar.foo.example.com
+really.specific.origin.example.com
+reg.example.com
+registry.example.com
+releases.example.com
+remote-backup.example.com
+remote-bakup.example.com
+remote.example.com
+rentyourride.example.com
+reportcollector.example.com
+request.example.com
+requests.example.com
+resizer.example.com
+returned.example.com
+review.example.com
+ric.example.com
+rozpoznawanie-zagrozen.example.com
+rtcd.example.com
+s3.api.example.com
+saltapi-url.example.com
+samahaisuhana.example.com
+sandbox.example.com
+schedule-consultation.example.com
+scriptt.example.com
+sdkapp.example.com
+seatable.example.com
+secure-bank-login.example.com
+secure-document.example.com
+secure-payment-page.example.com
+securityinsidequiz.example.com
+self-help.example.com
+self-signed.example.com
+serwer.example.com
+sharedzen.example.com
+shinjuku-sanchome.example.com
+shopease.example.com
+shortlink.example.com
+sibling.example.com
+signed-url.example.com
+site.subdomain.example.com
+skaha.example.com
+slime.example.com
+slowapi.example.com
+smallcompany.example.com
+smarthost.example.com
+smtpsrv.example.com
+sns.example.com
+some-server.example.com
+somewhere.example.com
+specific-device.example.com
+specific.example.com
+speedy.example.com
+stag.example.com
+staging-api.example.com
+staging-auth.example.com
+stapi.example.com
+stash.example.com
+stgwg1.example.com
+stylesheets.example.com
+subdirectory.example.com
+subjectname@example.com
+summarize.example.com
+support.example.com
+suspicious-link.example.com
+sztp1.example.com
+sztp2.example.com
+techtalk.example.com
+telemetry.nexusguard.example.com
+teleport.example.com
+test-malware.example.com
+test-proxy.example.com
+test.internal.example.com
+thinlinc-master.example.com
+tickets.example.com
+tickets.museum.example.com
+tl.example.com
+tlsv1-0.example.com
+tmga.sub.example.com
+tools.example.com
+tracking.example.com
+tsdb.example.com
+tsfminferenceserver-kserve-test.example.com
+tuency-demo1.example.com
+ulsah.example.com
+unknown.example.com
+updates.nexusguard.example.com
+upload.example.com
+us.example.com
+user@example.com
+users.example.com
+uxdhbpahpdsf.example.com
+v34.ruzaev1.example.com
+vc-01-a.example.com
+very.specific.example.com
+void.example.com
+vulnerable.example.com
+warcstore.example.com
+wcg1.example.com
+weather.example.com
+widgets.example.com
+wiki.example.com
+wiki.victim.example.com
+worker-rough-fire-759a.example.com
+wstunnel.example.com
+wsw.example.com
+www.ark.example.com
+www.deco-addict.example.com
+www.example.com
+www.fanohotel.example.com
+www.gemini-furniture.example.com
+www.globalcompany.example.com
+www.good.example.com
+www.hello.example.com
+www.legalconsulting.example.com
+www.one.example.com
+www.ready-mat.example.com
+www.remote.example.com
+www.the-jackson-group.example.com
+www.wood-corner.example.com
+www.your-website.example.com
+www4.example.com
+wwww.example.com
+x-force.example.com
+x1.www.example.com
+xn--bhler-kva.example.com
+xn--rksmrgs-5wao1o.example.com
+your-personal-homepage.example.com
+your-server.example.com
+yourwebsite.example.com
+yyy.example.com
+zabbix.example.com
+zap.example.com
+zaqar.example.com
+zenml.example.com
+Total found: 473
+
+=== SCAN ===
+Target IP: 96.7.128.198
+
+[+] Starting Nmap scan...
+Port 21 is filtered
+Port 22 is filtered
+Port 23 is filtered
+Port 25 is filtered
+Port 53 is closed
+Port 80 is open
+Port 110 is filtered
+Port 111 is filtered
+Port 135 is filtered
+Port 139 is filtered
+Port 143 is filtered
+Port 443 is open
+Port 445 is filtered
+Port 993 is filtered
+Port 995 is filtered
+Port 1723 is filtered
+Port 3306 is filtered
+Port 3389 is filtered
+Port 5900 is filtered
+Port 8080 is filtered
+Port 8443 is filtered
+Port 8888 is filtered
+Port 9000 is filtered
+Port 10000 is filtered
+
+
+=== TECH ===
+http://example.com [200 OK] Country[UNITED STATES][US], HTML5, IP[96.7.128.198], Title[Example Domain]
+
+
